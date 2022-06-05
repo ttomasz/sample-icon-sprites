@@ -1,0 +1,12 @@
+[submodule "external_repos/symbol-library"]
+	path = external_repos/symbol-library
+	url = https://github.com/nationalparkservice/symbol-library.git
+[submodule "external_repos/maki"]
+	path = external_repos/maki
+	url = https://github.com/mapbox/maki.git
+[submodule "external_repos/temaki"]
+	path = external_repos/temaki
+	url = https://github.com/ideditor/temaki.git
+[submodule "external_repos/openstreetmap-carto"]
+	path = external_repos/openstreetmap-carto
+	url = https://github.com/gravitystorm/openstreetmap-carto.git
