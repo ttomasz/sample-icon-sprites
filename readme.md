@@ -2,6 +2,8 @@
 
 This repo provides packaged [sprites](https://maplibre.org/maplibre-gl-js-docs/style-spec/sprite/) that can be used when debugging/testing vector tile maps leveraging libraries such as [MapLibre GL JS](https://maplibre.org/).
 
+I am not the author of these icons. I just packaged them. Check each project's licence before usage.
+
 See available files at: https://ttomasz.github.io/sample-icon-sprites/
 
 Inspired by: https://github.com/orangemug/font-glyphs
